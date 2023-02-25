@@ -1,0 +1,3 @@
+listen_address = "127.0.0.1:8080"
+library_path = "/home/uzer/Downloads/Library/"
+base_path = "/"
